@@ -1,0 +1,2 @@
+# Mixing Up Real Samples and Adversarial Samples for Semi-Supervised Learning
+This is the PyTorch implementation of the IJCNN2020 paper "Mixing Up Real Samples and Adversarial Samples for Semi-Supervised Learning"[[pdf](https://doi.org/10.1109/IJCNN48605.2020.9207038)].
